@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+I'm a **Python developer** 🐍 and **Linux** lover 🐧<br />
+
+⭐ Feel free to **follow me**!<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oKhodus&hide=TeX&layout=compact)
 <!--
 **oKhodus/oKhodus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
